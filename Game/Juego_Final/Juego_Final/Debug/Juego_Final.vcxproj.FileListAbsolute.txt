@@ -1,0 +1,87 @@
+C:\Users\janiria\source\repos\Juego_Final\Juego_Final\Debug\Juego_Final.vcxproj.AssemblyReference.cache
+C:\Users\janiria\source\repos\Juego_Final\Juego_Final\Debug\JuegoFinal.FinalSecret.resources
+C:\Users\janiria\source\repos\Juego_Final\Juego_Final\Debug\JuegoFinal.V_Creditos.resources
+C:\Users\janiria\source\repos\Juego_Final\Juego_Final\Debug\JuegoFinal.V_Menu.resources
+C:\Users\janiria\source\repos\Juego_Final\Juego_Final\Debug\JuegoFinal.YouLose.resources
+C:\Users\janiria\source\repos\Juego_Final\Juego_Final\Debug\Juego_Final.vcxproj.GenerateResource.cache
+C:\Users\janiria\source\repos\Juego_Final\Juego_Final\Debug\JuegoFinal.MyForm.resources
+C:\Users\janiria\source\repos\Juego_Final\Juego_Final\Debug\JuegoFinal.V_Jugar.resources
+C:\Users\janiria\source\repos\Juego_Final\Juego_Final\Debug\JuegoFinal.Nivel2.resources
+C:\Users\janiria\source\repos\Juego_Final\Juego_Final\Debug\JuegoFinal.YouWin.resources
+C:\Users\JORGE\OneDrive\Escritorio\Juego_Final\Juego_Final\Debug\Juego_Final.vcxproj.AssemblyReference.cache
+C:\Users\JORGE\OneDrive\Escritorio\Juego_Final\Juego_Final\Debug\Juego_Final.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\JORGE\OneDrive\Escritorio\Juego_Final\Juego_Final\Debug\JuegoFinal.FinalSecret.resources
+C:\Users\JORGE\OneDrive\Escritorio\Juego_Final\Juego_Final\Debug\JuegoFinal.MyForm.resources
+C:\Users\JORGE\OneDrive\Escritorio\Juego_Final\Juego_Final\Debug\JuegoFinal.V_Creditos.resources
+C:\Users\JORGE\OneDrive\Escritorio\Juego_Final\Juego_Final\Debug\JuegoFinal.V_Jugar.resources
+C:\Users\JORGE\OneDrive\Escritorio\Juego_Final\Juego_Final\Debug\JuegoFinal.V_Menu.resources
+C:\Users\JORGE\OneDrive\Escritorio\Juego_Final\Juego_Final\Debug\JuegoFinal.Nivel2.resources
+C:\Users\JORGE\OneDrive\Escritorio\Juego_Final\Juego_Final\Debug\JuegoFinal.YouLose.resources
+C:\Users\JORGE\OneDrive\Escritorio\Juego_Final\Juego_Final\Debug\JuegoFinal.YouWin.resources
+C:\Users\JORGE\OneDrive\Escritorio\Juego_Final\Juego_Final\Debug\Juego_Final.vcxproj.GenerateResource.cache
+C:\Users\JORGE\OneDrive\Escritorio\Juego_Final\Juego_Final\Debug\JuegoFinal.V_Instrucciones.resources
+C:\Users\JORGE\OneDrive\Escritorio\Juego_Final\Juego_Final\Debug\JuegoFinal.V_Nivel1.resources
+C:\Users\Usuario\Downloads\MI JUEGO FINAL\Juego_Final\Juego_Final\Debug\Juego_Final.vcxproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\MI JUEGO FINAL\Juego_Final\Juego_Final\Debug\Juego_Final.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Downloads\MI JUEGO FINAL\Juego_Final\Juego_Final\Debug\JuegoFinal.FinalSecret.resources
+C:\Users\Usuario\Downloads\MI JUEGO FINAL\Juego_Final\Juego_Final\Debug\JuegoFinal.MyForm.resources
+C:\Users\Usuario\Downloads\MI JUEGO FINAL\Juego_Final\Juego_Final\Debug\JuegoFinal.V_Creditos.resources
+C:\Users\Usuario\Downloads\MI JUEGO FINAL\Juego_Final\Juego_Final\Debug\JuegoFinal.V_Instrucciones.resources
+C:\Users\Usuario\Downloads\MI JUEGO FINAL\Juego_Final\Juego_Final\Debug\JuegoFinal.V_Jugar.resources
+C:\Users\Usuario\Downloads\MI JUEGO FINAL\Juego_Final\Juego_Final\Debug\JuegoFinal.V_Menu.resources
+C:\Users\Usuario\Downloads\MI JUEGO FINAL\Juego_Final\Juego_Final\Debug\JuegoFinal.Nivel2.resources
+C:\Users\Usuario\Downloads\MI JUEGO FINAL\Juego_Final\Juego_Final\Debug\JuegoFinal.V_Nivel1.resources
+C:\Users\Usuario\Downloads\MI JUEGO FINAL\Juego_Final\Juego_Final\Debug\JuegoFinal.YouLose.resources
+C:\Users\Usuario\Downloads\MI JUEGO FINAL\Juego_Final\Juego_Final\Debug\JuegoFinal.YouWin.resources
+C:\Users\Usuario\Downloads\MI JUEGO FINAL\Juego_Final\Juego_Final\Debug\Juego_Final.vcxproj.GenerateResource.cache
+C:\Users\janiria\Downloads\Juego_Final\Juego_Final\Debug\Juego_Final.vcxproj.AssemblyReference.cache
+C:\Users\janiria\Downloads\Juego_Final\Juego_Final\Debug\JuegoFinal.FinalSecret.resources
+C:\Users\janiria\Downloads\Juego_Final\Juego_Final\Debug\JuegoFinal.MyForm.resources
+C:\Users\janiria\Downloads\Juego_Final\Juego_Final\Debug\JuegoFinal.V_Creditos.resources
+C:\Users\janiria\Downloads\Juego_Final\Juego_Final\Debug\JuegoFinal.V_Instrucciones.resources
+C:\Users\janiria\Downloads\Juego_Final\Juego_Final\Debug\JuegoFinal.V_Jugar.resources
+C:\Users\janiria\Downloads\Juego_Final\Juego_Final\Debug\JuegoFinal.V_Menu.resources
+C:\Users\janiria\Downloads\Juego_Final\Juego_Final\Debug\JuegoFinal.Nivel2.resources
+C:\Users\janiria\Downloads\Juego_Final\Juego_Final\Debug\JuegoFinal.V_Nivel1.resources
+C:\Users\janiria\Downloads\Juego_Final\Juego_Final\Debug\JuegoFinal.YouLose.resources
+C:\Users\janiria\Downloads\Juego_Final\Juego_Final\Debug\JuegoFinal.YouWin.resources
+C:\Users\janiria\Downloads\Juego_Final\Juego_Final\Debug\Juego_Final.vcxproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\MI JUEGO FINAL\joanis\Juego_Final\Juego_Final\Debug\Juego_Final.vcxproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\MI JUEGO FINAL\joanis\Juego_Final\Juego_Final\Debug\Juego_Final.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Downloads\MI JUEGO FINAL\joanis\Juego_Final\Juego_Final\Debug\JuegoFinal.FinalSecret.resources
+C:\Users\Usuario\Downloads\MI JUEGO FINAL\joanis\Juego_Final\Juego_Final\Debug\JuegoFinal.MyForm.resources
+C:\Users\Usuario\Downloads\MI JUEGO FINAL\joanis\Juego_Final\Juego_Final\Debug\JuegoFinal.V_Creditos.resources
+C:\Users\Usuario\Downloads\MI JUEGO FINAL\joanis\Juego_Final\Juego_Final\Debug\JuegoFinal.V_Instrucciones.resources
+C:\Users\Usuario\Downloads\MI JUEGO FINAL\joanis\Juego_Final\Juego_Final\Debug\JuegoFinal.V_Jugar.resources
+C:\Users\Usuario\Downloads\MI JUEGO FINAL\joanis\Juego_Final\Juego_Final\Debug\JuegoFinal.V_Menu.resources
+C:\Users\Usuario\Downloads\MI JUEGO FINAL\joanis\Juego_Final\Juego_Final\Debug\JuegoFinal.Nivel2.resources
+C:\Users\Usuario\Downloads\MI JUEGO FINAL\joanis\Juego_Final\Juego_Final\Debug\JuegoFinal.V_Nivel1.resources
+C:\Users\Usuario\Downloads\MI JUEGO FINAL\joanis\Juego_Final\Juego_Final\Debug\JuegoFinal.YouLose.resources
+C:\Users\Usuario\Downloads\MI JUEGO FINAL\joanis\Juego_Final\Juego_Final\Debug\JuegoFinal.YouWin.resources
+C:\Users\Usuario\Downloads\MI JUEGO FINAL\joanis\Juego_Final\Juego_Final\Debug\Juego_Final.vcxproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\TRABAJO FINAL_Luciano\entregar\Nueva carpeta\Juego_Final\Juego_Final\Debug\Juego_Final.vcxproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\TRABAJO FINAL_Luciano\entregar\Nueva carpeta\Juego_Final\Juego_Final\Debug\Juego_Final.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Downloads\TRABAJO FINAL_Luciano\entregar\Nueva carpeta\Juego_Final\Juego_Final\Debug\JuegoFinal.FinalSecret.resources
+C:\Users\Usuario\Downloads\TRABAJO FINAL_Luciano\entregar\Nueva carpeta\Juego_Final\Juego_Final\Debug\JuegoFinal.MyForm.resources
+C:\Users\Usuario\Downloads\TRABAJO FINAL_Luciano\entregar\Nueva carpeta\Juego_Final\Juego_Final\Debug\JuegoFinal.V_Creditos.resources
+C:\Users\Usuario\Downloads\TRABAJO FINAL_Luciano\entregar\Nueva carpeta\Juego_Final\Juego_Final\Debug\JuegoFinal.V_Instrucciones.resources
+C:\Users\Usuario\Downloads\TRABAJO FINAL_Luciano\entregar\Nueva carpeta\Juego_Final\Juego_Final\Debug\JuegoFinal.V_Jugar.resources
+C:\Users\Usuario\Downloads\TRABAJO FINAL_Luciano\entregar\Nueva carpeta\Juego_Final\Juego_Final\Debug\JuegoFinal.V_Menu.resources
+C:\Users\Usuario\Downloads\TRABAJO FINAL_Luciano\entregar\Nueva carpeta\Juego_Final\Juego_Final\Debug\JuegoFinal.Nivel2.resources
+C:\Users\Usuario\Downloads\TRABAJO FINAL_Luciano\entregar\Nueva carpeta\Juego_Final\Juego_Final\Debug\JuegoFinal.V_Nivel1.resources
+C:\Users\Usuario\Downloads\TRABAJO FINAL_Luciano\entregar\Nueva carpeta\Juego_Final\Juego_Final\Debug\JuegoFinal.YouLose.resources
+C:\Users\Usuario\Downloads\TRABAJO FINAL_Luciano\entregar\Nueva carpeta\Juego_Final\Juego_Final\Debug\JuegoFinal.YouWin.resources
+C:\Users\Usuario\Downloads\TRABAJO FINAL_Luciano\entregar\Nueva carpeta\Juego_Final\Juego_Final\Debug\Juego_Final.vcxproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\Entregar\Juego_Final\Juego_Final\Debug\Juego_Final.vcxproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\Entregar\Juego_Final\Juego_Final\Debug\Juego_Final.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Downloads\Entregar\Juego_Final\Juego_Final\Debug\JuegoFinal.FinalSecret.resources
+C:\Users\Usuario\Downloads\Entregar\Juego_Final\Juego_Final\Debug\JuegoFinal.MyForm.resources
+C:\Users\Usuario\Downloads\Entregar\Juego_Final\Juego_Final\Debug\JuegoFinal.V_Creditos.resources
+C:\Users\Usuario\Downloads\Entregar\Juego_Final\Juego_Final\Debug\JuegoFinal.V_Instrucciones.resources
+C:\Users\Usuario\Downloads\Entregar\Juego_Final\Juego_Final\Debug\JuegoFinal.V_Jugar.resources
+C:\Users\Usuario\Downloads\Entregar\Juego_Final\Juego_Final\Debug\JuegoFinal.V_Menu.resources
+C:\Users\Usuario\Downloads\Entregar\Juego_Final\Juego_Final\Debug\JuegoFinal.Nivel2.resources
+C:\Users\Usuario\Downloads\Entregar\Juego_Final\Juego_Final\Debug\JuegoFinal.V_Nivel1.resources
+C:\Users\Usuario\Downloads\Entregar\Juego_Final\Juego_Final\Debug\JuegoFinal.YouLose.resources
+C:\Users\Usuario\Downloads\Entregar\Juego_Final\Juego_Final\Debug\JuegoFinal.YouWin.resources
+C:\Users\Usuario\Downloads\Entregar\Juego_Final\Juego_Final\Debug\Juego_Final.vcxproj.GenerateResource.cache
